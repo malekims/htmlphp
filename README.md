@@ -1,2 +1,3 @@
 # htmlphp
-Playing git with html and php
+Playing git with html and php.
+Edit. 
